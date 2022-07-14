@@ -8,3 +8,10 @@
     ```
 # link qwiklabs : https://www.cloudskillsboost.google/?locale=id
 # link qwiklabs : https://www.cloudskillsboost.google/ 
+
+Daftar Email Bisa Daftar Qwilabs vcc 
+
+1. https://www.google.com/
+2. https://outlook.live.com/owa/?nlp=1
+3. https://mail.yandex.com/
+4. https://www.trash-mail.com/inbox/
