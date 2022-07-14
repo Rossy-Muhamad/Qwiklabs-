@@ -15,3 +15,4 @@ Daftar Email Bisa Daftar Qwilabs vcc
 2. https://outlook.live.com/owa/?nlp=1
 3. https://mail.yandex.com/
 4. https://www.trash-mail.com/inbox/
+5. yahoo https://tinyurl.com/yym2rvp7
