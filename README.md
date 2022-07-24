@@ -18,7 +18,7 @@ Daftar Email Bisa Daftar Qwilabs vcc
 4. https://www.trash-mail.com/inbox/
 5. yahoo https://tinyurl.com/yym2rvp7
 
-** Email Generator**
+# ** Email Generator**
 **CuyUniverse Feature Progress 🐤** 
 1. https://www.emailondeck.com/eod.php
 2. https://temp-mail.org/
