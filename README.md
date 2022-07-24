@@ -19,6 +19,7 @@ Daftar Email Bisa Daftar Qwilabs vcc
 5. yahoo https://tinyurl.com/yym2rvp7
 
 ** Email Generator**
+**CuyUniverse Feature Progress 🐤** 
 1. https://www.emailondeck.com/eod.php
 2. https://temp-mail.org/
 3. https://emailfake.com/
