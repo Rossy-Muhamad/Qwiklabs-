@@ -10,7 +10,7 @@
 # link qwiklabs : https://www.cloudskillsboost.google/ 
 # link qwiklabs : https://partner.cloudskillsboost.google/
 
-Daftar Email Bisa Daftar Qwilabs vcc 
+# Daftar Email Bisa Daftar Qwilabs vcc 😜
 
 1. https://www.google.com/
 2. https://outlook.live.com/owa/?nlp=1
@@ -18,8 +18,7 @@ Daftar Email Bisa Daftar Qwilabs vcc
 4. https://www.trash-mail.com/inbox/
 5. yahoo https://tinyurl.com/yym2rvp7
 
-# ** Email Generator**
-**CuyUniverse Feature Progress 🐤** 
+# Email Generator 😜
 1. https://www.emailondeck.com/eod.php
 2. https://temp-mail.org/
 3. https://emailfake.com/
