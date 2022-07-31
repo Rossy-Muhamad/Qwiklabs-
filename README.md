@@ -8,7 +8,7 @@
     ```
 # link qwiklabs : https://www.cloudskillsboost.google/?locale=id
 # link qwiklabs : https://www.cloudskillsboost.google/ 
-# link qwiklabs : https://partner.cloudskillsboost.google/
+# link qwiklabs : https://partner.cloudskillsboost.google/ 
 
 # Daftar Email Bisa Daftar Qwilabs vcc 😜
 
