@@ -30,3 +30,23 @@
    1m-GwG-GCCF-682
     ```
 # Links code : https://s.id/1doUG
+
+# CARA DAFTAR QWIKLABS VCC 
+
+1. Daftar akun di link google patner
+2. login lanjut masukan vcc, jika gagal signup saja
+3. buka di browser qwiklabs, login ulang terus coba masukan vcc lagi
+
+# BIN
+-  ```console  
+   40165840
+    ```
+-  ```console  
+   5344174004
+    ```
+-  ```console  
+   534417404
+    ```
+-  ```console  
+   401658401
+    ```
